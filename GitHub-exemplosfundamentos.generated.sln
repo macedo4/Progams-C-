@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyProjects", "MyProjects", "{78329092-1851-4516-9E9C-3952FA69739C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "trilha-net-fundamentos-desafio", "trilha-net-fundamentos-desafio", "{35427B12-6DF0-4B95-A008-DAFB1ACD38F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "MyProjects\trilha-net-fundamentos-desafio\DesafioFundamentos\DesafioFundamentos.csproj", "{E96A8E8A-4C7E-42F9-B4C1-247C73EF3B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E96A8E8A-4C7E-42F9-B4C1-247C73EF3B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96A8E8A-4C7E-42F9-B4C1-247C73EF3B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96A8E8A-4C7E-42F9-B4C1-247C73EF3B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96A8E8A-4C7E-42F9-B4C1-247C73EF3B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35427B12-6DF0-4B95-A008-DAFB1ACD38F3} = {78329092-1851-4516-9E9C-3952FA69739C}
+		{E96A8E8A-4C7E-42F9-B4C1-247C73EF3B92} = {35427B12-6DF0-4B95-A008-DAFB1ACD38F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7A51102-ACDF-47AA-911A-20FB2BB8562C}
+	EndGlobalSection
+EndGlobal
